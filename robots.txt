@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://playboard.lenivo.online/sitemap.xml
-Host: playboard.lenivo.online
+Sitemap: http://playboard.tanoro.site/sitemap.xml
+Host: playboard.tanoro.site
